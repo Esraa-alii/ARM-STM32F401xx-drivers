@@ -1,5 +1,5 @@
 # STM32F401xx Driver Implementation
-This repository contains an implementation of the STM32f103c8t6 ARM microcontroller driver. The driver provides an interface for accessing the hardware peripherals of the microcontroller.
+This repository contains an implementation of the STM32F401xx ARM microcontroller driver. The driver provides an interface for accessing the hardware peripherals of the microcontroller.
 
 ##  Quick review 
 The STM32F401xx devices are based on the high-performance
